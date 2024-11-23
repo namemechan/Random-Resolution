@@ -9,6 +9,11 @@ It was created for use with the amazing TIPO extension.(https://github.com/Kohak
 
 Note: Its functionality with Forge (reforge) has not been tested.
 
+[Set up]
+======
+`Random-Resolution.py` in to `stable-diffusion-webui\scripts`
+
+
 [How to Use]
 ======
 
